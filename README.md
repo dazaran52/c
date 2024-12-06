@@ -1,5 +1,7 @@
 ## 🚀 This repository is currently empty because I cannot publicly share my solutions to university assignments at this time. 🚀
 
+## XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 ## C Projects Repository
 Welcome to my GitHub repository, where I showcase my projects built using the C programming language! 🚀
 
